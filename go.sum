@@ -1,0 +1,16 @@
+git.n.xiaomi.com/dushe/protocolbuffers-demo v0.0.0-20210330082218-82c25ccb010a h1:JdPED6B0hXvUZhJVxsc5yj9g1RAMIUBn3EihpsBfpfU=
+git.n.xiaomi.com/dushe/protocolbuffers-demo v0.0.0-20210330082218-82c25ccb010a/go.mod h1:eFAiYgJYhipXQ7aN6tVKHapWKBvFbtXqmAn3n80by6I=
+git.n.xiaomi.com/dushe/protocolbuffers-demo v0.0.0-20210330093025-ac9afc7bbb73 h1:8BsEUw2L5UoyH1gHjW7czH3E3idCtwhEqwWjeHAN+Qo=
+git.n.xiaomi.com/dushe/protocolbuffers-demo v0.0.0-20210330093025-ac9afc7bbb73/go.mod h1:eFAiYgJYhipXQ7aN6tVKHapWKBvFbtXqmAn3n80by6I=
+git.n.xiaomi.com/dushe/protocolbuffers-demo v0.0.0-20210331061518-4ab0da285f6b h1:hAsF82SQE5+svtAX6jl7PJbRjE18Uz7vbQRaMGNu850=
+git.n.xiaomi.com/dushe/protocolbuffers-demo v0.0.0-20210331061518-4ab0da285f6b/go.mod h1:eFAiYgJYhipXQ7aN6tVKHapWKBvFbtXqmAn3n80by6I=
+github.com/golang/protobuf v1.5.0/go.mod h1:FsONVRAS9T7sI+LIUmWTfcYkHO4aIWwzhcaSAoJOfIk=
+github.com/golang/protobuf v1.5.2 h1:ROPKBNFfQgOUMifHyP+KYbvpjbdoFNs+aK7DXlji0Tw=
+github.com/golang/protobuf v1.5.2/go.mod h1:XVQd3VNwM+JqD3oG2Ue2ip4fOMUkwXdXDdiuN0vRsmY=
+github.com/google/go-cmp v0.5.5 h1:Khx7svrCpmxxtHBq5j2mp/xVjsi8hQMfNLvJFAlrGgU=
+github.com/google/go-cmp v0.5.5/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
+github.com/protocolbuffers/protobuf v3.15.6+incompatible h1:xDkn9XF/5pyO6v3GKpwIm7GFUIQj1cQcPuWnWsG9664=
+golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=
+google.golang.org/protobuf v1.26.0-rc.1/go.mod h1:jlhhOSvTdKEhbULTjvd4ARK9grFBp09yW+WbY/TyQbw=
+google.golang.org/protobuf v1.26.0 h1:bxAC2xTBsZGibn2RTntX0oH50xLsqy1OxA9tTL3p/lk=
+google.golang.org/protobuf v1.26.0/go.mod h1:9q0QmTI4eRPtz6boOQmLYwt+qCgq0jsYwAQnmE0givc=
