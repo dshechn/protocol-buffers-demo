@@ -1,0 +1,22 @@
+syntax = "proto3";
+package demo_type;
+
+option go_package = "pb/demo_type";
+
+message Person {
+  double   value_double   = 1;
+  float    value_float    = 2;
+  int32    value_int32    = 3;
+  int64    value_int64    = 4;
+  uint32   value_uint32   = 5;
+  uint64   value_uint64   = 6;
+  sint32   value_sint32   = 7;
+  sint64   value_sint64   = 8;
+  fixed32  value_fixed32  = 9;
+  fixed64  value_fixed64  = 10;
+  sfixed32 value_sfixed32 = 11;
+  sfixed64 value_sfixed64 = 12;
+  bool     value_bool     = 13;
+  string   value_string   = 14;
+  bytes    value_bytes   = 15;
+}
