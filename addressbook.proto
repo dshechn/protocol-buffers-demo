@@ -28,3 +28,10 @@ message Person {
 message AddressBook {
   repeated Person people = 1;
 }
+
+message Profile {
+  oneof avatar {
+    string image_url = 1;
+    bytes image_data = 2;
+  }
+}

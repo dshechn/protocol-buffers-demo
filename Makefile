@@ -2,14 +2,19 @@
 
 default: pb
 
-pb:
+version:
 	@go version
+
+pb: version
 	@protoc -I/usr/local/include -I. --go_out=./ addressbook.proto
 
-add: add_person.go
+pbd: version
+	@protoc -I/usr/local/include -I. --go_out=./ protocol_type.proto
+
+add: version add_person.go
 	go build -o add_person_go add_person.go
 
-list: list_people.go
+list: version list_people.go
 	go build -o list_people_go list_people.go
 
 clean:
